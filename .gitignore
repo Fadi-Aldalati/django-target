@@ -1,0 +1,5 @@
+# Environments
+.targetVenv
+
+### VisualStudioCode template
+.vscode/*
